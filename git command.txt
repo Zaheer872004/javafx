@@ -1,0 +1,17 @@
+  ***steps or git command for pushing the folder in github*** 
+
+	
+	1. git inti      -> to allow the git in folder OR 
+	2. git status    -> to see the file is tracked or not
+	3. git add .     -> to add all file and folder inside the given folder
+	4. git status 	 -> to see the file is tracked or not
+	5. git commit -m "passed the message"
+	 
+        6. git remote add origin https://github.com/Zaheer872004/javafx.git
+	7. git push origin main(branch name which is main)
+
+
+
+
+
+   ***                                                            ***
